@@ -1,16 +1,6 @@
-# simpsonsviewer
+# Simpsons Character Viewer
 
-A new Flutter project.
+This project was created as a take home assessment for Anywerhere Realty. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Coding Philosophy
+One of the biggest issues to consider when building enterprise applications is in migrating to outside APIs, modifying existing APIs, or moving storage from APIs to local storage or vice versa. Thus, this product was desined around CLEAN architecture and emphasizes modularity. While this leads to some additional boiler plate code, it is ultimately easier to read and maintiain over other forms of architecure.

@@ -1,0 +1,26 @@
+{
+    "appTitle": "Simpsons Character Viewer",
+    "@appTitle": {
+      "description": "Title of this application"
+    },
+    "searchCharactersTitle": "Search Characters",
+    "@searchCharactersTitle": {
+      "description": "Title for Search Characters Page"
+    },
+    "searchCharactersHintText": "Type to begin searching",
+    "@searchCharactersHintText": {
+      "description": "Hint text that displays in the search bar of the search characters screen"
+    },
+    "characterDetailsTitle": "Details",
+    "@characterDetailsTitle": {
+      "description": "Title that displays on charachter details card"
+    },
+    "genericErrorMessage": "Something went wrong",
+    "@genericErrorMessage": {
+      "description": "Message to display on unknown or generic errors"
+    },
+    "tryAgainButtonText": "Try again",
+    "@tryAgainButtonText": {
+      "description": "Text displayed on try again button to reload page data"
+    }
+  }
